@@ -1,5 +1,7 @@
 # Data-Science-Airbnb-Seattle
+
 ## Packages
+
 We use for this project  a Jupyter Notebook with python 3. The libraries used for this project are:
 
 The packages that we used for this project are:
@@ -12,12 +14,11 @@ seaborn
 <br>
 matplotlib
 
-##Purpose of this project
+## Purpose of this project
 
 At this project we analyzed data from airbnb for the area of Seattle. The aim of this project was to answer the following questions:
-<br1)How the neigborhoud affect the price of the property
-<br>
-1)1)How the neigborhoud affect the price of the property?
+<br
+1)How the neigborhoud affect the price of the property
 <br>
 2)2)What kind of properties have the highest price and how this is related with the rating score from the customers?
 <br>
