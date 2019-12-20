@@ -17,7 +17,7 @@ matplotlib
 ## Purpose of this project
 
 At this project we analyzed data from airbnb for the area of Seattle. The aim of this project was to answer the following questions:
-<br
+<br>
 1)How the neigborhoud affect the price of the property
 <br>
 2)2)What kind of properties have the highest price and how this is related with the rating score from the customers?
